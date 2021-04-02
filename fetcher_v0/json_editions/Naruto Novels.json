@@ -1,0 +1,14 @@
+{
+    "name": "Naruto Novels",
+    "manga_name": "Naruto",
+    "edition_url": "https://www.amazon.com/dp/B087R4VF2R?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 6,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B01N55EFD8?ref_=dbs_m_mng_rwt_calw_tkin_4&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B06WRSS8YN?ref_=dbs_m_mng_rwt_calw_tkin_5&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B01MDKSOJJ?ref_=dbs_m_mng_rwt_calw_tkin_3&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B016XB2A6Q?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B01AIXDNM0?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B01DV7OCL6?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks"
+    ]
+}

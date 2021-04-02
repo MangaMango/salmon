@@ -1,0 +1,19 @@
+{
+    "name": "Vinland Saga",
+    "manga_name": "Kingdom",
+    "edition_url": "https://www.amazon.com/dp/B07JJL41DZ?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 11,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B07D3CYLRG?ref_=dbs_m_mng_rwt_calw_tkin_9&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00J7V9E9Q?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00CCOO6RK?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00NBZUXDK?ref_=dbs_m_mng_rwt_calw_tkin_4&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B0198Y8UU0?ref_=dbs_m_mng_rwt_calw_tkin_6&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B01N9FVTKN?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B01605TELE?ref_=dbs_m_mng_rwt_calw_tkin_5&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00HX01LTY?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07ZS4LGVQ?ref_=dbs_m_mng_rwt_calw_tkin_10&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00KM9EVTU?ref_=dbs_m_mng_rwt_calw_tkin_3&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B071KHMSFX?ref_=dbs_m_mng_rwt_calw_tkin_8&storeType=ebooks"
+    ]
+}

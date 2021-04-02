@@ -1,0 +1,11 @@
+{
+    "name": "Spy x Family",
+    "manga_name": "Spy X Family",
+    "edition_url": "https://www.amazon.com/dp/B0895P8R63?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 3,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B08NSP7LY3?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B088W7RWXS?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08G7KGVGG?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks"
+    ]
+}

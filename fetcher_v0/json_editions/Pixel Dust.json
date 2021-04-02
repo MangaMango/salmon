@@ -1,0 +1,11 @@
+{
+    "name": "Pixel Dust",
+    "manga_name": "Shuumatsu no Valkyrie",
+    "edition_url": "https://www.amazon.com/dp/B08DD6XZMN?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 3,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B08D2MJDW7?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08D1K3LTW?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08D1WHDRY?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Dragon Ball",
+    "manga_name": "Dragon Ball",
+    "edition_url": "https://www.amazon.com/dp/B07JKDVBRG?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 16,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B00FDZEBSO?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEIFU?ref_=dbs_m_mng_rwt_calw_tkin_15&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEKA8?ref_=dbs_m_mng_rwt_calw_tkin_11&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEHBK?ref_=dbs_m_mng_rwt_calw_tkin_14&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEC5Q?ref_=dbs_m_mng_rwt_calw_tkin_6&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEDPU?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEC0G?ref_=dbs_m_mng_rwt_calw_tkin_5&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEDQ4?ref_=dbs_m_mng_rwt_calw_tkin_8&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEC2Y?ref_=dbs_m_mng_rwt_calw_tkin_3&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEDUA?ref_=dbs_m_mng_rwt_calw_tkin_9&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEBUC?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEDIW?ref_=dbs_m_mng_rwt_calw_tkin_10&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEFLC?ref_=dbs_m_mng_rwt_calw_tkin_12&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEC2O?ref_=dbs_m_mng_rwt_calw_tkin_4&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEGTS?ref_=dbs_m_mng_rwt_calw_tkin_13&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B00FDZEBU2?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks"
+    ]
+}

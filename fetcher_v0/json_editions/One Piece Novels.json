@@ -1,0 +1,10 @@
+{
+    "name": "One Piece Novels",
+    "manga_name": "One Piece",
+    "edition_url": "https://www.amazon.com/dp/B08836G4FX?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 2,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B087FBK2GM?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08G7GN17Z?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks"
+    ]
+}

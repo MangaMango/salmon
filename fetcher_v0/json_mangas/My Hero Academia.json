@@ -1,0 +1,9 @@
+{
+    "name": "My Hero Academia",
+    "manga_url": "https://www.amazon.com/s?i=digital-text&k=My Hero Academia+manga",
+    "editions_url": [
+        "https://www.amazon.com/dp/B07JLY1XWS?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+        "https://www.amazon.com/dp/B07TML8MR5?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+        "https://www.amazon.com/dp/B07JJMTT91?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin"
+    ]
+}

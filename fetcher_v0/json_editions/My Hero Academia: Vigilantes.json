@@ -1,0 +1,16 @@
+{
+    "name": "My Hero Academia: Vigilantes",
+    "manga_name": "My Hero Academia",
+    "edition_url": "https://www.amazon.com/dp/B07JLY1XWS?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 8,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B07LD16DDD?ref_=dbs_m_mng_rwt_calw_tkin_2&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07C2LZBLT?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07PNTBXTP?ref_=dbs_m_mng_rwt_calw_tkin_3&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B088WNRGNX?ref_=dbs_m_mng_rwt_calw_tkin_6&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07HBBP1T8?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08LN2HM53?ref_=dbs_m_mng_rwt_calw_tkin_7&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07TB4C8GD?ref_=dbs_m_mng_rwt_calw_tkin_4&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B07XFM38SP?ref_=dbs_m_mng_rwt_calw_tkin_5&storeType=ebooks"
+    ]
+}

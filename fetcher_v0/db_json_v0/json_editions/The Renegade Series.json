@@ -1,0 +1,10 @@
+{
+    "name": "The Renegade Series",
+    "manga_name": "Spy X Family",
+    "edition_url": "https://www.amazon.com/dp/B08GLLGG1G?binding=kindle_edition&ref_=dbs_s_ks_series_rwt_tkin",
+    "num_volumes": 2,
+    "volumes_url": [
+        "https://www.amazon.com/gp/product/B08DCLT8M4?ref_=dbs_m_mng_rwt_calw_tkin_0&storeType=ebooks",
+        "https://www.amazon.com/gp/product/B08FWKND4Q?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks"
+    ]
+}
